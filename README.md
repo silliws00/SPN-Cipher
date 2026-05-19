@@ -1,0 +1,1 @@
+Main file can be changed based on user preferences. Implemented SPN cipher methods including key generation, encryption, and decryption. Cipher takes user input and develops random key values and calculates the resulting ciphertext. Through linear approximation, you can recover a key and cipher text.
